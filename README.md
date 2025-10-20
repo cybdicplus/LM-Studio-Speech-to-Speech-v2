@@ -63,6 +63,14 @@ detect body → Recognizes human bodies or outlines
 Each detection runs through your Qwen2-VL model using the shared
 describe_image_with_qwen() function — so all visual analysis uses the same high-accuracy vision engine.
 
+
+
+
+[![Watch on YouTube](https://img.shields.io/badge/🎥_Watch_on_YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/XXatAv0GTZo)
+
+
+
+
 ⚙️ Setup (Camera Version)
 1️⃣ Install Dependencies
 
@@ -164,3 +172,4 @@ Coqui TTS
 LM Studio
 
 Thanks for making this possible 🙏😁
+
