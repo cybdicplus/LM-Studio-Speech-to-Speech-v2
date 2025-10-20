@@ -66,7 +66,7 @@ describe_image_with_qwen() function — so all visual analysis uses the same hig
 
 
 
-[![Watch the video](https://youtu.be/XXatAv0GTZo)]()
+[![Watch the video](https://img.youtube.com/vi/r3UFkIF_Hmw/0.jpg)](https://youtu.be/XXatAv0GTZo_Hmw)
 
 
 
@@ -172,5 +172,6 @@ Coqui TTS
 LM Studio
 
 Thanks for making this possible 🙏😁
+
 
 
