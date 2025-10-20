@@ -66,7 +66,7 @@ describe_image_with_qwen() function — so all visual analysis uses the same hig
 
 
 
-[![Watch on YouTube](https://img.shields.io/badge/🎥_Watch_on_YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/XXatAv0GTZo)
+[![Watch the video](https://youtu.be/XXatAv0GTZo)]()
 
 
 
@@ -172,4 +172,5 @@ Coqui TTS
 LM Studio
 
 Thanks for making this possible 🙏😁
+
 
