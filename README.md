@@ -1,4 +1,7 @@
                                 README
+                                
+<img width="1280" height="720" alt="newest speech to speech thumbnail update " src="https://github.com/user-attachments/assets/860bf18d-09b2-4e5e-86cc-9b2e82a51d9d" />
+
 
 🎥 New Feature: Camera-Enabled + Vision Version
 
@@ -172,6 +175,7 @@ Coqui TTS
 LM Studio
 
 Thanks for making this possible 🙏😁
+
 
 
 
